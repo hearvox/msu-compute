@@ -1,8 +1,8 @@
 # MSU Gianforte School of Computing
 
-Montana State University is building a new, world-class [Gianforte School of Computing](https://www.cs.montana.edu/). To do so, we are open-sourcing our design process to the world.
+Montana State University is building a new [Gianforte School of Computing](https://www.cs.montana.edu/) that is state-of-the-art and , world-class.  So we're open-sourcing our designs to the world.
 
-`Hello, World!` Read about our program in this repo. Then please submit a [New Issue](https://github.com/hearvox/msu-compute/issues) with an enhancement/feature request, a question, or a bug report. (There's even a modest Bug Bounty for ideas we use.)
+`Hello, World!` Pleas read through our Program in this repo. Then submit a [New Issue](https://github.com/hearvox/msu-compute/issues) with an enhancement/feature request, a question, or a bug report. (There's even a modest Bug Bounty for ideas we use.)
 
 * What would you like to see in a modern school for computing?
 * How can we make it both higly functional and fun?
@@ -11,6 +11,11 @@ Montana State University is building a new, world-class [Gianforte School of Com
 
 ![MSU map with new GSoC locastion](assets/MSU-GSoC-map.png)
 
-*[List Program/Project features, e.g., Code Review/Mini-Prezi hall, Video/audio recording room, Dataviz infographic studio. Each should have an info file in the includes folder.]*
+*[[Includes](https://github.com/hearvox/msu-compute/tree/main/includes) folder: List Program/Project features, e.g., Code Review/Mini-Prezi hall, Video/audio recording room, Dataviz infographic studio. Each should have its own info file.]*
+
+*[[Assets](https://github.com/hearvox/msu-compute/tree/main/assets) folder: Add architectural drawing and idea sketches.]*
+
+*[[Docs](https://github.com/hearvox/msu-compute/tree/main/docs) folder: Documentation supporting the project scope and timeline.]*
 
 <!-- ![Enginering class](https://www.tradelineinc.com/sites/default/files/styles/center_column/public/industry_news/97515/msu9.jpg) -->
+
