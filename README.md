@@ -9,6 +9,8 @@ Montana State University is building a new, world-class [Gianforte School of Com
 * What features will help attract the best professors?
 * How can we seamlessly interact with MSU's other schools, like [Business & Entrepreneurship](https://www.montana.edu/business/index.html),  [Film & Photography](https://sfp.montana.edu/), [Graphic Design](https://art.montana.edu/areas-of-study/graphic-design.html), and the [Engineering](https://coe.montana.edu/) students next door.
 
-*[Insert image: MSU-GSoC location map]*
+![MSU map with new GSoC locastion](assets/MSU-GSoC-map.png)
 
-![Enginering class](https://www.tradelineinc.com/sites/default/files/styles/center_column/public/industry_news/97515/msu9.jpg)
+*[List Program/Project features, e.g., Code Review/Mini-Prezi hall, Video/audio recording room, Dataviz infographic studio. Each should have an info file in the includes folder.]*
+
+<!-- ![Enginering class](https://www.tradelineinc.com/sites/default/files/styles/center_column/public/industry_news/97515/msu9.jpg) -->
