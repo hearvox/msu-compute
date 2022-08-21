@@ -1,5 +1,14 @@
 # MSU Gianforte School of Computing
 
-Montana State University is building a new <a href="https://www.cs.montana.edu/">Gianforte School of Computing</a>. We our opensourcing the design to gather input from the world.
+Montana State University is building a new, world-class [Gianforte School of Computing](https://www.cs.montana.edu/). To do so, we are open-sourcing our design process to the world.
 
-<code>Hello, World!</code> This repo outlines our program. Please submit a new Issue with a question, an enhancement request, or a bug report. (There's even a modest Bug Bounty for ideas we use.)
+`Hello, World!` Read about our program in this repo. Then please submit a [New Issue](https://github.com/hearvox/msu-compute/issues) with an enhancement/feature request, a question, or a bug report. (There's even a modest Bug Bounty for ideas we use.)
+
+* What would you like to see in a modern school for computing?
+* How can we make it both higly functional and fun?
+* What features will help attract the best professors?
+* How can we seamlessly interact with MSU's other schools, like [Business & Entrepreneurship](https://www.montana.edu/business/index.html),  [Film & Photography](https://sfp.montana.edu/), [Graphic Design](https://art.montana.edu/areas-of-study/graphic-design.html), and the [Engineering](https://coe.montana.edu/) students next door.
+
+*[Insert image: MSU-GSoC location map]*
+
+![Enginering class](https://www.tradelineinc.com/sites/default/files/styles/center_column/public/industry_news/97515/msu9.jpg)
