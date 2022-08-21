@@ -1,6 +1,6 @@
 # MSU Gianforte School of Computing
 
-Montana State University is building a new [Gianforte School of Computing](https://www.cs.montana.edu/) that willl be state-of-the-art and world-class. So we're open-sourcing our designs to gather input from around the world.
+Montana State University is building a new [Gianforte School of Computing](https://www.cs.montana.edu/). It will be state-of-the-art and world-class. So we're open-sourcing our designs to gather input from around the world.
 
 `Hello, World!` Please read through our Program. Then we hope you'll submit a [New Issue](https://github.com/hearvox/msu-compute/issues) with a ![question](assets/github-label-question.png) or comment, an ![enhancement](assets/github-label-enhancement.png) or feature request, a question, or a ![bug](assets/github-label-bug.png) report. (There's even a modest Bug Bounty for ideas we use.)
 
