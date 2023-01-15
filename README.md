@@ -13,11 +13,12 @@ Montana State University is building a new [Gianforte School of Computing](https
 
 ![MSU map with new GSoC locastion](assets/MSU-GSoC-map.png)
 
-*[[Includes](https://github.com/hearvox/msu-compute/tree/main/includes) folder: List Program/Project features, e.g., Code Review/Mini-Prezi hall, Video/audio recording room, Dataviz infographic studio. Each should have its own info file.]*
+## @ToDo
+*[[Includes](https://github.com/hearvox/msu-compute/tree/main/includes) folder: Add list of Program/Project features, e.g., Code Review/Mini-Prezi hall, Video/audio recording room, Dataviz infographic studio. Each should have its own info file.]*
 
-*[[Assets](https://github.com/hearvox/msu-compute/tree/main/assets) folder: Add architectural drawing and idea sketches.]*
+*[[Assets](https://github.com/hearvox/msu-compute/tree/main/assets) folder: Upload architectural drawing and idea sketches.]*
 
-*[[Docs](https://github.com/hearvox/msu-compute/tree/main/docs) folder: Documentation supporting the project scope and timeline.]*
+*[[Docs](https://github.com/hearvox/msu-compute/tree/main/docs) folder: Create documentation supporting the project scope and timeline.]*
 
 <!-- ![Enginering class](https://www.tradelineinc.com/sites/default/files/styles/center_column/public/industry_news/97515/msu9.jpg) -->
 
